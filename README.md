@@ -7,7 +7,7 @@
 ```javascript
 const  Astrik  =  { 
     código : [ Javascript ,  HTML ,  CSS ,  Java ,  SASS ,  SQL ] ,
-    frameworks_librerias : [ Spring ,  React ,  jQuery ,  Bootsrap ] ,  
+    frameworks_librerias : [ Spring ,  React ,  JQuery ,  Bootsrap ] ,  
     herramientas : [ Git ,  MySql ,  PostgreSQL ,  Azure ,  Postman ,  IntelliJ,  VSCode ] , 
     área : "Desarrollo web Full Stack" ,
     habilidades_blandas : [ Perseverancia ,  Responsabilidad ,  Organización_efectiva_del_tiempo ],
