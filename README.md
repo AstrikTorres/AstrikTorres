@@ -14,7 +14,7 @@ const  Astrik  =  {
     formación : { 
                     generation_méxico : "Bootcamp Java Full Stack" , 
                     platzi : [ Desarrollo_web ,  Diseño ,  Inglés ,  Habilidades_blandas] ,
-                    lic_en_curso: "Diseño y comunicación visual" , 
+                    lic_en_curso: [ "Ing. en Sistemas Computacioneales" ,  "Diseño y comunicación visual" ] 
                 } , 
 }
 ```
